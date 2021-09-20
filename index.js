@@ -1,5 +1,5 @@
 // let url = 'ws://localhost:3000' 
-let url = 'ws://aqueous-river-42785.herokuapp.com';
+let url = 'wss://aqueous-river-42785.herokuapp.com';
 
  
 
